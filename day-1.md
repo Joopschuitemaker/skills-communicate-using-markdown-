@@ -6,10 +6,10 @@
 1. Step 2
 1. Step 3
 - [x] This task is complete
-- [ ] This task is not complete
-- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
-- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
-- [ ] Convert my first blog post into an actual webpage.
+- [x] This task is not complete
+- [x] Check out the [github blog](https://github.blog/) for topic ideas.
+- [x] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
+- [x] Convert my first blog post into an actual webpage.
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
 ```bash
